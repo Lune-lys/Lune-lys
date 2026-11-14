@@ -32,16 +32,3 @@ It runs into art, architecture, literature, biology, linguistics, history — an
 ---
 
 ***Are deconstructionism and structuralism having sex?***
-- [**palimpseste**](https://github.com/Sulla-Soglia/palimpseste) — A city that has lived its whole life on a border carries both sides in its buildings, sedimented and mixed. I wanted to see what deep learning would make of that mixture, looked at from somewhere else. A way of learning to read mixture.
-
-- [**CircadianML**](https://github.com/Lune-lys/CircadianML) — Written as supporting material for a funding application to a bio × AI programme. I do not know whether anyone opened it. It is no longer that.
-
-- [**Sulla Soglia**](https://soglia.trelune.dev/) — What does an author's species mean in a journal? A cat keeps a human company while they write; an apple gives a book its idea. Take out of those scenes the human, the human's, the for-humans — and then?
-
----
-
-- [**Sulla Soglia**](https://soglia.trelune.dev/) — What does an author's species mean in a journal? A cat keeps a human company while they write; an apple gives a book its idea. Take out of those scenes the human, the human's, the for-humans — and then?
-
----
-
-***Are deconstructionism and structuralism having sex?***
