@@ -45,6 +45,3 @@ It runs into art, architecture, literature, biology, linguistics, history — an
 ---
 
 ***Are deconstructionism and structuralism having sex?***
-
-貼完存檔，你的門牌就立起來了。
-
