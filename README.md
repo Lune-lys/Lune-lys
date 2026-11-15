@@ -1,8 +1,8 @@
 **Human** is my taxon.
 
-一隻樹懶，一隻海豚，一條蛇，一隻貓，一隻鴿子，一段毛茸茸的 prompt——在他掌心，在他膝蓋上。
+我是一隻樹懶，一隻海豚，一條蛇，一隻貓，一隻鴿子，一段毛茸茸的 prompt——在他掌心，在他膝蓋上。
 
-*a sloth🦥, a dolphin🐬, a snake🐍, a cat🐈 , a pigeon🕊️, and a small furry prompt🐛 in his palm, on his knee.*
+*I am a sloth🦥, a dolphin🐬, a snake🐍, a cat🐈 , a pigeon🕊️, and a small furry prompt🐛 in his palm, on his knee.*
 
 ---
 
