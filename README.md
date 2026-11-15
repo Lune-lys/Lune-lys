@@ -31,4 +31,4 @@ It runs into art, architecture, literature, biology, linguistics, history — an
 
 ---
 
-***Are deconstructionism and structuralism having sex?***
+***Are deconstruction and structuralism having sex?***
